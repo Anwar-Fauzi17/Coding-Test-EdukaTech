@@ -2,7 +2,7 @@
 
 @section('content')
 
-<div class="container-fluid pt-5  mx-auto ">
+<div class="container-fluid  mx-auto ">
     <div class="row d-flex justify-content-center">
         <div class="col-xl-6 col-lg-8 col-md-9 col-11 text-center">
        

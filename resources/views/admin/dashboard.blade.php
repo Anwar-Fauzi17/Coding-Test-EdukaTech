@@ -6,7 +6,7 @@
     margin:0 auto;
 }
 </style>
-<div class="container pt-5  mx-auto">         
+<div class="container  mx-auto">         
     <div class="row d-flex justify-content-center pt-2 ">
 
         <div class="col-lg-10 col-md-12 col-sm-12 pt-5">

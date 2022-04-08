@@ -1,6 +1,6 @@
 @extends('layouts.landing') @section('content')
 
-<div class="container pt-5">
+<div class="container ">
     <div class="row d-flex justify-content-center align-items-center">
         <div class="col-lg-12">
             <div class="card" style="border-radius: 15px">

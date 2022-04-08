@@ -36,7 +36,7 @@ div.dataTables_wrapper {
     } 
 } 
 </style>
-<div class="container pt-5  mx-auto">
+<div class="container  mx-auto">
          
                 
     <div class="row d-flex justify-content-center pt-2 ">
